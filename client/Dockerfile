@@ -1,7 +1,7 @@
 FROM node:14-alpine AS development
 ENV NODE_ENV development
 # Add a work directory
-WORKDIR /frontend
+WORKDIR /client
 # Cache and Install dependencies
 COPY package.json .
 COPY yarn.lock .
