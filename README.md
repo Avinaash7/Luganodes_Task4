@@ -2,13 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To Run the project, First clone Luganodes Backend
-[Luganodes Backend](https://github.com/Avinaash7/luganodes_backend)
-
 ## Steps to follow to run the project
-### Run the backend project in `localhost:3000`
-### Run Luganodes Task using `yarn install`
-### After installing all dependencies `yarn start`
+### Start by Running (#luganodes_backend) 
+### `yarn install`
+### `yarn start`
+### Make sure the backend runs in `localhost:3000`
+### Now open client
+### `yarn install`
+### `yarn start`
 
 ## Tech Stack
   - [Backend Dependencies](#backend-dependencies)
