@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps to follow to run the project
-### Start by Running (#luganodes_backend) 
+### Start by Running luganodes_backend 
 ### `yarn install`
 ### `yarn start`
 ### Make sure the backend runs in `localhost:3000`
